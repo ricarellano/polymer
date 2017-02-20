@@ -1,0 +1,24 @@
+{
+  "name": "polymer",
+  "version": "1.0.0",
+  "description": "polymer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricarellano/polymer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricarellano/polymer/issues"
+  },
+  "homepage": "https://github.com/ricarellano/polymer#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  },
+  "devDependencies": {}
+}
